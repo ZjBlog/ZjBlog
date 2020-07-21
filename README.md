@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![avatar](./blog.gif)
+![avatar](https://github.com/ZjBlog/ZjBlog/raw/master/blog.gif)
 
 ```
   _   _  ____    ____  _    _  _____     __    __    __  
